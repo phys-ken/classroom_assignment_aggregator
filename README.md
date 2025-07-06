@@ -70,4 +70,7 @@ clasp pull
 
 MIT License
 
+## Pages_theme
+remote_theme: pages-themes/architect@v0.2.0
+
 
