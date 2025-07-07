@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Google Classroom 課題集計ツール
+description: Google Classroomの課題提出状況を自動で集計・分析するためのGASツールです。
