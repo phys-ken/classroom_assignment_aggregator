@@ -2,6 +2,8 @@
 
 Googleスプレッドシート上で動作し、Google Classroomの課題提出状況を自動で集計・分析するためのツールです。
 
+**[➡️ 公開ページはこちら (GitHub Pages)](https://phys-ken.github.io/classroom_assignment_aggregator/)**
+
 ## 概要
 
 このツールは、Google Classroomのクラスが複数あり、生徒の課題提出状況を一覧で確認・集計したい先生向けのスクリプトです。スプレッドシートにメニューが追加され、簡単な操作で以下の機能を利用できます。
@@ -50,7 +52,7 @@ Googleスプレッドシート上で動作し、Google Classroomの課題提出�
 
 ### ローカル開発環境 (clasp)
 
-このプロジェクトは[clasp](https://github.com/google/clasp)を使用してローカルでの開発とGoogle Apps Scriptサーバーとの同期を行っています。
+[clasp](https://github.com/google/clasp)を使用することで、ローカルでの開発とGoogle Apps Scriptサーバーとの同期を行うことができます。
 
 ```bash
 # claspでプロジェクトをクローン

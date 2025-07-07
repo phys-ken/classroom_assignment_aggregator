@@ -566,8 +566,10 @@ function showHelpDialog() {
       </ul>
       
       <div class="footer">
-        <p>ご不明な点や改善要望がありましたら、下記までご連絡ください。</p>
-        <a href="https://note.com/phys_ken" target="_blank">お問い合わせ (開発者: phys-ken)</a>
+        <p>このツールの最新情報や詳細な使い方はGitHub Pagesで公開しています。<br>
+        <a href="https://phys-ken.github.io/classroom_assignment_aggregator/" target="_blank">https://phys-ken.github.io/classroom_assignment_aggregator/</a></p>
+        <p>ご不明な点や改善要望がありましたら、下記までご連絡ください。<br>
+        <a href="https://note.com/phys_ken" target="_blank">お問い合わせ (開発者: phys-ken)</a></p>
       </div>
     </body>
   </html>
